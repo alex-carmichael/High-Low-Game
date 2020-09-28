@@ -1,0 +1,7 @@
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\bin\Debug\HIgh Low Game.exe.config
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\bin\Debug\HIgh Low Game.exe
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\bin\Debug\HIgh Low Game.pdb
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\obj\Debug\HIgh Low Game.csprojAssemblyReference.cache
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\obj\Debug\HIgh Low Game.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\obj\Debug\HIgh Low Game.exe
+P:\Digital\VS\18Alex Carmichael\HIgh Low Game\HIgh Low Game\obj\Debug\HIgh Low Game.pdb
